@@ -8,7 +8,7 @@ public class MySampleFile {
 		 
 		int mark=76;
 		
-		if(mark>40) {
+		if(mark>=40) {
 			System.out.println("Pass");
 		}
 		else {
@@ -19,4 +19,5 @@ public class MySampleFile {
 	}
 
 }
+
 
