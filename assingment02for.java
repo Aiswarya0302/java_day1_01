@@ -29,9 +29,10 @@ public class assingment02for {
 	    	 System.out.println("This is a Even num");
 	     }
 	     else {
-	    	 System.out.print("This is a Even num");
+	    	 System.out.print("This is a Odd num");
 	     }
 
 	}
 
 }
+
